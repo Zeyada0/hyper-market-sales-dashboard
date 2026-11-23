@@ -83,7 +83,8 @@ How is the hyper market performing across sales, profit and returns, and which b
 
 ## Files
 
-- `Hyper-Market-Sales-Dashboard.pbix` - full Power BI report with embedded data
+This repository contains a project overview and dashboard screenshots only. The Power BI report file and underlying data are not distributed.
+
 - `screenshots/` - dashboard page screenshots
 
 ## Author
